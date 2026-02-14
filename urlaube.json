@@ -1,21 +1,4 @@
 {
-  "urlaube": [
-    {
-      "name": "Lara Walker",
-      "dienstnummer": "PD-084",
-      "start": "2026-02-14",
-      "end": "2026-02-21",
-      "type": "urlaubForm",
-      "status": "genehmigt"
-    },
-    {
-      "name": "Lara Walker",
-      "dienstnummer": "PD-077",
-      "start": "2026-02-14",
-      "end": "2026-02-22",
-      "type": "urlaubForm",
-      "status": "eingereicht"
-    }
-  ],
+  "urlaube": [],
   "gesperrt": []
 }
